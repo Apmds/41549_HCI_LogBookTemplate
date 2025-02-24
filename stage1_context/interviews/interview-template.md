@@ -12,7 +12,7 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+[Describe the task in the user’s words]
 
 **What are the main pain points or difficulties they experience?** 
 - [Challenge 1] 

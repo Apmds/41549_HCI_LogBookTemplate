@@ -7,13 +7,17 @@
 >	Here you will briefly explain the domain of the problem you identified, briefly identify general challenges and, then, state you problem
 
 # Context
-[What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
+After reading a book enough times, people stop getting any use out of it besides keeping it in a bookshelf to gather dust.
+
+This application specializes in helping its users trade their books with other people, face to face, saving them time and money while giving them new books they chose to read.
 
 # Challenges
-[What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]
+As the app's purpose is to trade face to face, if there are no other users nearby with the exact book a user is looking for, the cost of transportation to an exchange location might outweigh the cost of simply buying the book.
+
+We can't also guarantee that users wouldn't lie about the physical state of the book (torn pages, scratches, etc) when engaging in a trade.
 
 # The goal
-[In a short sentence state what is the problem you wish to address]
+The main goal of our project is to create an application that can bring people who want to trade their books without spending extra money together.
 
 
 [Back to main Logbook Page](hci_logbook.md)

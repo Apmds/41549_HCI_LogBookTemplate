@@ -11,14 +11,10 @@
 
 ## B.1a. Competitors
 
-
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
-
-
+| BookTrade         | Mobile app to trade books with a Tinder-like UI. | [Analysis](<Competitor Analysis BookTrade.md>) |
+| Bunz | Trading platform for anyhting. | [Analysis](<Competitor Analysis Bunz.md>) |
 
 
 ## B.1b. Detailed Competitor Analysis
