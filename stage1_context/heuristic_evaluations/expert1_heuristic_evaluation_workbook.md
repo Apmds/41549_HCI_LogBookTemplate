@@ -2,9 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Evaluator**: Gonçalo Silva
+**Date**: 24-02-2025
+**Product**: Bunz
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)

@@ -16,6 +16,7 @@ As the app's purpose is to trade face to face, if there are no other users nearb
 
 We can't also guarantee that users wouldn't lie about the physical state of the book (torn pages, scratches, etc) when engaging in a trade.
 
+It might be a security risk to have users give their general location to others.
 # The goal
 The main goal of our project is to create an application that can bring people who want to trade their books without spending extra money together.
 

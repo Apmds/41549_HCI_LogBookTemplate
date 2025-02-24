@@ -97,9 +97,9 @@ Task: [This is the task]
 
 ## B.2a. Method
 
-To talk with the users from the set of people that would benefit from using our application (active book readers) we decided to ask them what would be the most important features to implement so that they could get the most out of the application.
+<!-- To talk with the users from the set of people that would benefit from using our application (active book readers) we decided to ask them what would be the most important features to implement so that they could get the most out of the application.
 
-The main goal of the interviews was to get a solid feedback on what our opposition did well and also what they lacked on, which is arguably more important since we can take advantage of that to be a serious competitor in the market.
+The main goal of the interviews was to get a solid feedback on what other options did well and also what they lacked on, which is arguably more important since we can take advantage of that to be a serious competitor in the market.
 
 ### Some of the questions included:
 ### General usage and experience:
@@ -123,8 +123,51 @@ Used to understand the difficulties of the user to finish the trade as fast as p
 - What could stop you from completing a book trade after matching with another book?
 - What options would you like to have access to while talking to the other user you matched with? (For example sending photos to show the state of the book)
 
-### Functionality:
+### Functionality: -->
 
+# Interview questions 
+- Tell me about your free time. What do you like to do?
+- Do you usually read books?
+- How do you discover new books to read? / How do you usually get new books?
+- Tell me about the last time you read a book.
+- ~~Do you collect books, or are you mainly interested in reading new ones?~~
+- When you finish reading a book, what do you do with it? Do you keep it if you want to read again in the future?
+- If you had extra books at home, would you be more likely to sell, donate, or trade them? Why?
+- Have you ever traded books with others before? 
+	- Yes:
+		- How do you usually find people to trade books with?
+		- Can you walk me through the last time you did it?
+		- How did you do it?
+			- If response talks about a trading group(facebook, etc):
+				- Was it simple to find the group?
+				- How did you know the other person was trustworthy?
+				- Was the book traded to you in a worse condition than what was told by the other person?
+			- If response talks about a trading app:
+				- How was the experience?
+				- How can the experience be better?
+		- What motivates you to trade books instead of buying or borrowing them?
+		- What types of books do you usually trade?
+		- Have you faced any challenges when trying to trade books with others?
+		- What concerns do you have when trading books?
+		- What's the biggest frustration you've had when trying to trade a book?
+		- When trading books, are you looking for a specific book, or do you find one in a specific niche you enjoy?
+		- What makes a book trade feel successful to you?
+		
+	- No:
+		- Do you ever re-read books?
+		- Have you ever thought about trading books before? Why or why not?
+		- What's the biggest reason you haven't traded books before?
+		- What would make you hesitant to trade a book with someone else?
+		- Would you feel confortable trading a book with strangers, or would you prefer only friends?
+		- What could make you want to trade books?
+
+
+- Do you feel existing platforms offer enough security and accountability for fair trades?
+- Would you trust an app to suggest book trades for you based on your interests, or do you prefer to pick them manually?
+- If you were unsure about a trade, what extra info would help you decide?
+- Do you think it's better to trade books in person with others or send them?
+- Would you be open to shipping books, or do you prefer only local trades? Why?
+- What would make you recommend a book trading app to a friend?
 
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
