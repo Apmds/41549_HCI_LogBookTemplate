@@ -97,6 +97,36 @@ Task: [This is the task]
 
 ## B.2a. Method
 
+To talk with the users from the set of people that would benefit from using our application (active book readers) we decided to ask them what would be the most important features to implement so that they could get the most out of the application.
+
+The main goal of the interviews was to get a solid feedback on what our opposition did well and also what they lacked on, which is arguably more important since we can take advantage of that to be a serious competitor in the market.
+
+### Some of the questions included:
+### General usage and experience:
+This section is mainly used to interact with the user to understand the context in which they would feel like using the app.
+
+- How often would you use the app?
+- What do you like the most about the app?
+- What frustrates you the most when using the app?
+
+### Matching and swipping experience:
+The goal of the following questions is to see if the swipping system is actually useful or too abstract.
+
+- How do you feel using the swiping system?
+- Do you feel like the first suggestions are books of your interests / books that you would read in the future?
+- What kind of filters would you like to have when searching for a new book (Pages, location of the owner, author or genre for example)?
+
+### Chatting experience and trading proccess:
+Used to understand the difficulties of the user to finish the trade as fast as possible after matching with the other book.
+
+- How hard is it to arrange a meeting to exchange the books? What implementations could decrease its difficulty?
+- What could stop you from completing a book trade after matching with another book?
+- What options would you like to have access to while talking to the other user you matched with? (For example sending photos to show the state of the book)
+
+### Functionality:
+
+
+
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
 ## B.2b. Results
 
