@@ -20,6 +20,7 @@
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
 
+We decided to analyze the Bunz app, despite it not having the goal of trading only books. This stems from the fact that BookTrade is not available at any app store, and the only source of information from that application is a video on their website.
 
 ### - Heuristic Evaluation
 
@@ -55,38 +56,67 @@
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
+We identified the 3 most important tasks that Bunz performs and divided them into subtasks, analysing each subtask from the perspective of a new user and determining if they would know how to perform that subtask to complete the overall task.
+
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+The most important tasks in a item trading app are all related to performing a trade. As it stands, the most relevant tasks are: "Creating a new post", "Searching for an item" and "Messaging another user".
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Creating a new post**  | Click on the '+' button.               |
+|                             | Select "Post" from the options.        |
+|                             | Fill out the post details.             |
+|                             | Press the "Post" button.               |
+
+
+| Task                          | Subtasks                                	    |
+| ----------------------------- | --------------------------------------------- |
+| **2. Searching for an item**  | Enter the search tab (press the button).      |
+|                               | Write on the search bar.                      |
+|                               | Press the magnifying glass button on the bar. |
+|                               | Insert filters on the search.                 |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
-
+| **3. Messaging another user** | Select a post.                          |
+|                               | Press the "Start the chat" button.      |
+|                               | Type a message in the text input.       |
+|                               | Press "Send".                           |
 
 #### Results
 
-Task: [This is the task]
+### Task: Creating a new post
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Click on the '+' button. | Yes | The button has a different color from the rest and has a symbol indicating the action. | Yes | A list of creatable options show up uppon clicking. | Yes |  |  |
+| 2      | Select "Post" from the options. | Yes | The option is clearly visible and has a label indicating it is a Post. | Yes | The post creation page appears when pressing the button. | Yes |  |  |
+| 3      | Fill out the post details. | Yes | Everywhere that information can be inputted in contains a clear label/description. | Yes and No | The information shows up in the fields and the images show the loading progress, but when selecting the meeting spot, only a blank window shows up. | No | Fix the location selecting. |  |
+| 4     | Press the "Post" button. | Yes | The button lights up after filing every mandatory field. | Yes | A message confirming the post was created shows up. | Yes |  |  |
 
+
+### Task: Searching for an item
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Enter the search tab (press the button). | Yes | The button is a magnifying glass symbol and is placed by the other "main" buttons. | Yes | The menu changes to the "Explore" section and the button changes to a brighter color. | Yes |  |  |
+| 2      | Write on the search bar. | Yes | The search bar is proeminent at the top, with text indicating its function. | Yes | The text updates as the user is typing. | Yes |  |  |
+| 4      | Press the magnifying glass button on the bar. | Yes | The button is positioned by the text. | Yes | The keyboard goes away and the results appear. | Yes |  |  |
+| 3      | Insert filters on the search. | Yes | The button is right by the search bar. | Yes | A menu for inputting filters shows up and all fields are correctly labeled. | Yes |  |  |
+
+
+### Task: Messaging another user
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Select a post. | Yes | Every post shows its most important details. | Yes | A bar at the top appears, showing the loading progression. | Yes |  |  |
+| 2      | Press the "Start the chat" button. | Yes | The button is big and has a highlight color. | Yes | The button shows a loading icon when clicked and the chat interface after loading. | Yes |  |  |
+| 3      | Type a message in the text input. | Yes | The text input is already selected and has placeholder text. | Yes | A "Send" button becomes visible and the text updates as the user is typing. | Yes | Make the text input take up the full phone width when not writing, instead of just half. |  |
+| 4      | Press "Send". | Yes | The button is very visible and has a good icon. | Yes | The written message shows up in the full conversation. | Yes |  |  |
 
 
 ---
@@ -97,40 +127,11 @@ Task: [This is the task]
 
 ## B.2a. Method
 
-<!-- To talk with the users from the set of people that would benefit from using our application (active book readers) we decided to ask them what would be the most important features to implement so that they could get the most out of the application.
-
-The main goal of the interviews was to get a solid feedback on what other options did well and also what they lacked on, which is arguably more important since we can take advantage of that to be a serious competitor in the market.
-
-### Some of the questions included:
-### General usage and experience:
-This section is mainly used to interact with the user to understand the context in which they would feel like using the app.
-
-- How often would you use the app?
-- What do you like the most about the app?
-- What frustrates you the most when using the app?
-
-### Matching and swipping experience:
-The goal of the following questions is to see if the swipping system is actually useful or too abstract.
-
-- How do you feel using the swiping system?
-- Do you feel like the first suggestions are books of your interests / books that you would read in the future?
-- What kind of filters would you like to have when searching for a new book (Pages, location of the owner, author or genre for example)?
-
-### Chatting experience and trading proccess:
-Used to understand the difficulties of the user to finish the trade as fast as possible after matching with the other book.
-
-- How hard is it to arrange a meeting to exchange the books? What implementations could decrease its difficulty?
-- What could stop you from completing a book trade after matching with another book?
-- What options would you like to have access to while talking to the other user you matched with? (For example sending photos to show the state of the book)
-
-### Functionality: -->
-
 # Interview questions 
 - Tell me about your free time. What do you like to do?
 - Do you usually read books?
 - How do you discover new books to read? / How do you usually get new books?
 - Tell me about the last time you read a book.
-- ~~Do you collect books, or are you mainly interested in reading new ones?~~
 - When you finish reading a book, what do you do with it? Do you keep it if you want to read again in the future?
 - If you had extra books at home, would you be more likely to sell, donate, or trade them? Why?
 - Have you ever traded books with others before? 
@@ -152,7 +153,7 @@ Used to understand the difficulties of the user to finish the trade as fast as p
 		- What's the biggest frustration you've had when trying to trade a book?
 		- When trading books, are you looking for a specific book, or do you find one in a specific niche you enjoy?
 		- What makes a book trade feel successful to you?
-		
+
 	- No:
 		- Do you ever re-read books?
 		- Have you ever thought about trading books before? Why or why not?

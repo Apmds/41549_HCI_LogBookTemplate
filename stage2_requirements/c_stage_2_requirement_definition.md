@@ -9,6 +9,12 @@
 
 # Personas
 
+- Várias idades
+- Frequências/velocidade de leitura
+- Número de livros terminados
+- Procura livros específicos ou género
+- Onde vive (rural/urbano)
+
 ## Persona: [Persona Name] 
 ### Summary 
 | Attribute        | Details                                       |
