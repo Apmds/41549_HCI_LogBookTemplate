@@ -198,7 +198,39 @@ The most important tasks in a item trading app are all related to performing a t
 	- Feature 2
 - --- 
 
+### SWOT Analysis
 
+<!--
+| SWOT Element  | HCI focus                  | Example in UX/UI             |
+| ------------- | -------------------------- | ---------------------------- |
+| Strengths     |                            |                              |
+| Weaknesses    |                            |                              |
+| Opportunities |                            |                              |
+| Threats       |                            |                              |
+-->
+
+#### Strengths:
+
+ - BTZ is a good idea for an in-app currency, since it cannot be used outside of the app.
+ - Encourages the reuse of items not needed anymore by the user, reducing waste.
+ - Multiple trading categories, catering to a vast array of users.
+
+#### Weaknesses:
+
+ - BTZ has no specific value, so any user can ask for large quantities of it.
+ - The home page has almost no relevant information, and most of what is there must be found by scrolling to the side.
+ - No function to send an image to chat.
+ - No way of deleting a post after a chat about it has been created.
+
+#### Opportunities:
+
+ - Add option to change main colors (for colorblind users).
+ - Create a quick guide for new users to learn the most basic aspects of the app.
+
+#### Threats:
+
+ - Negative behaviour of the userbase can lead to decline in interest in the platform, if not treated accordingly.
+ - The bartering/trading principle is lost if users ask for money/gift cards instead of other items.
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
