@@ -31,8 +31,6 @@ We decided to analyze the Bunz app, despite it not having the goal of trading on
 #### Individual Evaluations
 <!-- For the individual heuristic evaluations by each member of the group, you can use the templates below, grouping problems by heuristic OR each evaluator can have a table listing all the detected problems with the number of the violated heuristics on the second column. Whichever your choice, you should have a list of problems, the severity, and a recommendation to mitigate it -->
 
-
-
 - [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
 
 - [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
@@ -42,15 +40,34 @@ We decided to analyze the Bunz app, despite it not having the goal of trading on
 
 #### Consensus
 
->	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
+<!-->	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.-->
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | Expert 1 | Expert 2 | Expert 3 | Recommendations                                 |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| Select location when creating a post. | 2 | 0 | 0 | Display some type of indicator to the user know if the app is running or not. |
+| There is no quick way to see a user's rating. | 3 | 0 | 0 | Add the respective rating to the user profile. |
+| Category selection. | 2 | 0 | 0 | Choose the main categories first and then will the subcategories appear. |
+| No clear customer support. | 4 | 0 | 0 | Add a button with an option to contact the help team. |
 
+| Some notifications can go unnoticed (such as the trading confirmation). | 0 | 1 | 0 | Create a bigger presentation to confirm a trade, with more color highlights. |
+| Some terms on the app might be unfamiliar with new users. | 0 | 1 | 0 | Create a simple tutorial on the main things of the app. |
+| There is not a clear option to undo actions fast. | 0 | 3 | 0 | Add useful buttons. |
+| Some buttons have the same style in different places for different purposes. | 0 | 3 | 0 | Use different buttons. | 
+| Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident. | 0 | 4 | 0 | Add warnings. |
+| Some important commands are held in hidden menus. | 0 | 2 | 0 | Organize the interface to give more options without searching. |
+| Excessive use of white space, even though it shows the clear options available it gets boring. | 0 | 1 | 0 | Use light non-white colors. |
+| When there are no available trading spots the system gives no information or error. | 0 | 4 | 0 | Show error or warning information to give user context. |
+| Documentation could be more interactive. | 0 | 1 | 0 | Implement tutorials in video. |
 
+| No feedback when trying to add interests. | 0 | 0 | 2 | Make the button darker on press/hold. |
+| Blurry screen on expertise/"level" screen. | 0 | 0 | 3 | Remove the blur. |
+| No indication of not being able to interact with the other levels on the expertise screen. | 0 | 0 | 1 | Grey out the other levels. |
+| Terms like ISO and BTZ are used, but not explained directly. | 0 | 0 | 3 | Give an explanation of those terms when creating an account / Use more conventional names. |
+| The use of volcanoes to show the level of expertise a user has does not make sense. | 0 | 0 | 3 | Use more common terms to describe the expertise of a user. |
+| There is no way to delete a chat if one is started by accident. | 0 | 0 | 2 | Give that option on the chat's option menu. |
+| Creating an ISO and a post has almost no difference in the UI. | 0 | 0 | 3 | Descriptions of the elements that differ, showing their differences clearly. |
+| Logging out is instant. | 0 | 0 | 2 | Show a pop-up asking if the user is sure they want to log out. |
+| First element in home page is a square button that displays an irrelevant message. | 0 | 0 | 3 | Place after the rest of the other squares so it does not take away from their information. |
 
 ---
 ### - Cognitive Walkthrough

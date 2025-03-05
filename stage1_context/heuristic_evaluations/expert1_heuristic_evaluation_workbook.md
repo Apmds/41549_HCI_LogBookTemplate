@@ -16,7 +16,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Select location whean creating a post | 2 | Display some type of indicator to the user know if the app is running or not  |
+| Select location when creating a post | 2 | Display some type of indicator to the user know if the app is running or not  |
 |    |             |                |
 
 # 2 Match Between System and The Real World
@@ -78,7 +78,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Categorie selection | 2          | Choose the main categories first and then will the subcategories appear                |
+| Category selection | 2          | Choose the main categories first and then will the subcategories appear                |
 |    |            |                |
 
 # 8 Aesthetic and Minimalist Design
@@ -108,5 +108,5 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| No clear customer support | 4           | Add a button ar an option to contact the help team               |
+| No clear customer support. | 4           | Add a button with an option to contact the help team.               |
 |                 |             |                |

@@ -68,8 +68,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 

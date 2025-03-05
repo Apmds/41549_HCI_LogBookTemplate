@@ -6,7 +6,6 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 **Date**: 24-02-2025
 **Product**: BUNZ
 
-
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
@@ -38,7 +37,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| There is not a clear option to undo actions faast | 3            |           Add useful buttons     |
+| There is not a clear option to undo actions fast | 3            |           Add useful buttons     |
 
 
 # 4 Consistency and Standards
@@ -49,6 +48,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Some buttons have the same style in different places for different purposes | 3            |        Use different buttons        |
+
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
 >	- Does the design prevent slips by using helpful constraints? 
@@ -57,6 +57,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident | 4            |          Add warnings      |
+
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
@@ -65,6 +66,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Some important commands are held in hidden menus | 2            |       Organize the interface to give more options without searching         |
+
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
@@ -72,8 +74,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+|                 |              |                |
+
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
@@ -82,6 +84,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Excessive use of white space, even though it shows the clear options available it gets boring. |1            |Use light non-white colors|
+
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 
