@@ -49,25 +49,25 @@ We decided to analyze the Bunz app, despite it not having the goal of trading on
 | Category selection. | 2 | 0 | 0 | Choose the main categories first and then will the subcategories appear. |
 | No clear customer support. | 4 | 0 | 0 | Add a button with an option to contact the help team. |
 
-| Some notifications can go unnoticed (such as the trading confirmation). | 0 | 1 | 0 | Create a bigger presentation to confirm a trade, with more color highlights. |
-| Some terms on the app might be unfamiliar with new users. | 0 | 1 | 0 | Create a simple tutorial on the main things of the app. |
-| There is not a clear option to undo actions fast. | 0 | 3 | 0 | Add useful buttons. |
-| Some buttons have the same style in different places for different purposes. | 0 | 3 | 0 | Use different buttons. | 
-| Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident. | 0 | 4 | 0 | Add warnings. |
-| Some important commands are held in hidden menus. | 0 | 2 | 0 | Organize the interface to give more options without searching. |
-| Excessive use of white space, even though it shows the clear options available it gets boring. | 0 | 1 | 0 | Use light non-white colors. |
-| When there are no available trading spots the system gives no information or error. | 0 | 4 | 0 | Show error or warning information to give user context. |
-| Documentation could be more interactive. | 0 | 1 | 0 | Implement tutorials in video. |
+| Some notifications can go unnoticed (such as the trading confirmation). | 1 | 1 | 0 | Create a bigger presentation to confirm a trade, with more color highlights. |
+| Some terms on the app might be unfamiliar with new users. | 2 | 1 | 0 | Create a simple tutorial on the main things of the app. |
+| There is not a clear option to undo actions fast. | 3 | 3 | 0 | Add useful buttons. |
+| Some buttons have the same style in different places for different purposes. | 3 | 3 | 0 | Use different buttons. | 
+| Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident. | 3 | 4 | 0 | Add warnings. |
+| Some important commands are held in hidden menus. | 2 | 2 | 0 | Organize the interface to give more options without searching. |
+| Excessive use of white space, even though it shows the clear options available it gets boring. | 1 | 1 | 0 | Use light non-white colors. |
+| When there are no available trading spots the system gives no information or error. | 4 | 4 | 0 | Show error or warning information to give user context. |
+| Documentation could be more interactive. | 1 | 1 | 0 | Implement tutorials in video. |
 
-| No feedback when trying to add interests. | 0 | 0 | 2 | Make the button darker on press/hold. |
-| Blurry screen on expertise/"level" screen. | 0 | 0 | 3 | Remove the blur. |
-| No indication of not being able to interact with the other levels on the expertise screen. | 0 | 0 | 1 | Grey out the other levels. |
-| Terms like ISO and BTZ are used, but not explained directly. | 0 | 0 | 3 | Give an explanation of those terms when creating an account / Use more conventional names. |
-| The use of volcanoes to show the level of expertise a user has does not make sense. | 0 | 0 | 3 | Use more common terms to describe the expertise of a user. |
-| There is no way to delete a chat if one is started by accident. | 0 | 0 | 2 | Give that option on the chat's option menu. |
-| Creating an ISO and a post has almost no difference in the UI. | 0 | 0 | 3 | Descriptions of the elements that differ, showing their differences clearly. |
-| Logging out is instant. | 0 | 0 | 2 | Show a pop-up asking if the user is sure they want to log out. |
-| First element in home page is a square button that displays an irrelevant message. | 0 | 0 | 3 | Place after the rest of the other squares so it does not take away from their information. |
+| No feedback when trying to add interests. | 2 | 0 | 2 | Make the button darker on press/hold. |
+| Blurry screen on expertise/"level" screen. | 2 | 0 | 3 | Remove the blur. |
+| No indication of not being able to interact with the other levels on the expertise screen. | 1 | 0 | 1 | Grey out the other levels. |
+| Terms like ISO and BTZ are used, but not explained directly. | 3 | 0 | 3 | Give an explanation of those terms when creating an account / Use more conventional names. |
+| The use of volcanoes to show the level of expertise a user has does not make sense. | 2 | 0 | 3 | Use more common terms to describe the expertise of a user. |
+| There is no way to delete a chat if one is started by accident. | 2 | 0 | 2 | Give that option on the chat's option menu. |
+| Creating an ISO and a post has almost no difference in the UI. | 3 | 0 | 3 | Descriptions of the elements that differ, showing their differences clearly. |
+| Logging out is instant. | 2 | 0 | 2 | Show a pop-up asking if the user is sure they want to log out. |
+| First element in home page is a square button that displays an irrelevant message. | 1 | 0 | 3 | Place after the rest of the other squares so it does not take away from their information. |
 
 ---
 ### - Cognitive Walkthrough
