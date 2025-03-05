@@ -15,19 +15,25 @@
 - Procura livros específicos ou género
 - Onde vive (rural/urbano)
 
+        
+**Name:** Emma Walton
+**Age:** 30  
+**Occupation:** Travel Blogger
+**Location:** London, UK
+
 ## Persona: [Persona Name] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | <img src="personas/persona2.jpg" width="80">  |
+| **Name**         | Emma Walton                                |
+| **Age**          | 30                               |
+| **Occupation**   | Travel Blogger                           |
+| **Location**     | London, UK                               |
+| **Goals**        | Find new exciting reads without the burden of carrying around too many books           |
+| **Pain Points**  | Logistics of tranporting books              |
+| **Motivation**   | Make reading part of her jouney in a practical way              |
+| **Full Profile** | [📄 Read More](personas/persona2_Emma.md) |
 
 ---
 ## Persona: [Persona Name] 

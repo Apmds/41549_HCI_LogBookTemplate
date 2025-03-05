@@ -20,11 +20,11 @@ Emma's day typically start early checking her emails for any brand collaboration
 
 ## Goals & Needs   
 
-Emma's goal is to continue growing her blog and maintain her status as a reliable resource for readers interested in travel and literature. She seeks to expand her literary knowlodge by reading books from different cultures that enrich her travel experiences. She needs a way to exchange books easily while traveling, as well as the opportunity to find new exciting reads without the burden of packing and shipping heavy books.
+Emma's goal is to continue growing her blog and maintain her status as a reliable resource for readers interested in travel and literature. She seeks to expand her literary knowlodge by reading books from different cultures that enrich her travel experiences. She needs a way to exchange books easily while traveling, as well as the opportunity to find new exciting reads without the burden of carrying around too many books.
 
 ## Pain Points & Challenges  
 
-One challenge she faces     is dealing with the logistics of tranporting books when she's constantly on the move. She sometimes struggles to find space for new books while traveling. 
+One challenge she faces is dealing with the logistics of tranporting books when she's constantly on the move. She sometimes struggles to find space for new books while traveling. 
 
 ## Motivation    
 
