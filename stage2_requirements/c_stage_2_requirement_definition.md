@@ -31,19 +31,19 @@
 | **Full Profile** | [📄 Read More](personas/persona2_Emma.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: Peter Smith
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Photo**        | <img src="personas/persona3.jpeg" width="80">  |
+| **Name**         | Peter Smith                              |
+| **Age**          | 58                                |
+| **Occupation**   | Bartender                           |
+| **Location**     | Quebec, Canada                               |
+| **Goals**        | Find new books to read and free up space taken by old ones. |
+| **Pain Points**  | Difficult schedule to trade books. Not tech-savvy. |
+| **Motivation**   | Give new use to old books and read new ones. |
+| **Full Profile** | [📄 Read More](personas/persona3_Peter.md) |
 
 ---
 
