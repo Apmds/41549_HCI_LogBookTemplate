@@ -12,7 +12,6 @@
 Emma is a passionate travel blogger and a self-proclaimed bookworm who believes that reading is one of the best ways to explore new cultures. She graduated in journalism and quickly fell in love with blogging and photography while studying abroad Europe. Emma's travel blog has gained a following thanks to her authentic reviews, detailed itineraries and tips on books and local literature from the places she visits. With a growing number of followers, she continues to focus on creating content about cultural experiences and literary recommendations, often reviewing books that she reads in each new country.
 
 
-
 ## Daily Life  
 
 Emma's day typically start early checking her emails for any brand collaborations or checking out new blog comments. She spends a few hours in the morning writing articles and editing photos for her latest travel post. When she is on the road, her day may include visiting places, meeting people or attending cultural events. She often makes time for reading throughout the day, usually during her travel downtime, by reading a novel on local literature. In the evenings, she may scroll through social media to interact with followers or to look for book recommendations.
@@ -25,6 +24,7 @@ Emma's goal is to continue growing her blog and maintain her status as a reliabl
 ## Pain Points & Challenges  
 
 One challenge she faces is dealing with the logistics of tranporting books when she's constantly on the move. She sometimes struggles to find space for new books while traveling. 
+**Right now, she relies on random bookshops to buy some books, which is costly and inconvenient.**
 
 ## Motivation    
 

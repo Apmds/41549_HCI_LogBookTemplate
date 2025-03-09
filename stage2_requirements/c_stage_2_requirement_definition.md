@@ -49,9 +49,14 @@
 
 
 
-
-
 # Scenarios
+
+## Scenario 1: Exploring local literature in Buenos Aires
+## **[COMPLETAMENTE INACABADO]**
+Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like Jorge Luis Borges, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip.
+
+Emma wants to read a local novel that connects her to the city, but she doesn't want to buy a brand-new book, as she is traveling light.
+As she walks into the bookstore  ...
 
 
 ## Scenario 1: Maria goes on a Museum Tour
