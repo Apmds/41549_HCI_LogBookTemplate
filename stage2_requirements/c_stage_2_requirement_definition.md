@@ -15,13 +15,8 @@
 - Procura livros específicos ou género
 - Onde vive (rural/urbano)
 
-        
-**Name:** Emma Walton
-**Age:** 30  
-**Occupation:** Travel Blogger
-**Location:** London, UK
 
-## Persona: [Persona Name] 
+## Persona: Emma Walton 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
