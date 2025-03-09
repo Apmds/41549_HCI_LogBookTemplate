@@ -44,20 +44,20 @@ We decided to analyze the Bunz app, despite it not having the goal of trading on
 
 | **Issue**       | Expert 1 | Expert 2 | Expert 3 | Recommendations                                 |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Select location when creating a post. | 2 | 0 | 0 | Display some type of indicator to the user know if the app is running or not. |
-| There is no quick way to see a user's rating. | 3 | 0 | 0 | Add the respective rating to the user profile. |
-| Category selection. | 2 | 0 | 0 | Choose the main categories first and then will the subcategories appear. |
-| No clear customer support. | 4 | 0 | 0 | Add a button with an option to contact the help team. |
+| Select location when creating a post. | 2 | 0 | 4 | Display some type of indicator to the user know if the app is running or not. |
+| There is no quick way to see a user's rating. | 3 | 0 | 2 | Add the respective rating to the user profile. |
+| Category selection. | 2 | 0 | 2 | Choose the main categories first and then will the subcategories appear. |
+| No clear customer support. | 4 | 0 | 3 | Add a button with an option to contact the help team. |
 
-| Some notifications can go unnoticed (such as the trading confirmation). | 1 | 1 | 0 | Create a bigger presentation to confirm a trade, with more color highlights. |
-| Some terms on the app might be unfamiliar with new users. | 2 | 1 | 0 | Create a simple tutorial on the main things of the app. |
-| There is not a clear option to undo actions fast. | 3 | 3 | 0 | Add useful buttons. |
-| Some buttons have the same style in different places for different purposes. | 3 | 3 | 0 | Use different buttons. | 
-| Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident. | 3 | 4 | 0 | Add warnings. |
-| Some important commands are held in hidden menus. | 2 | 2 | 0 | Organize the interface to give more options without searching. |
-| Excessive use of white space, even though it shows the clear options available it gets boring. | 1 | 1 | 0 | Use light non-white colors. |
-| When there are no available trading spots the system gives no information or error. | 4 | 4 | 0 | Show error or warning information to give user context. |
-| Documentation could be more interactive. | 1 | 1 | 0 | Implement tutorials in video. |
+| Some notifications can go unnoticed (such as the trading confirmation). | 1 | 1 | 1 | Create a bigger presentation to confirm a trade, with more color highlights. |
+| Some terms on the app might be unfamiliar with new users. | 2 | 1 | 3 | Create a simple tutorial on the main things of the app. |
+| There is not a clear option to undo actions fast. | 3 | 3 | 3 | Add useful buttons. |
+| Some buttons have the same style in different places for different purposes. | 3 | 3 | 2 | Use different buttons. | 
+| Item exclusion doesn't show a clear warning, increasing the probability of removing a product by accident. | 3 | 4 | 3 | Add warnings. |
+| Some important commands are held in hidden menus. | 2 | 2 | 2 | Organize the interface to give more options without searching. |
+| Excessive use of white space, even though it shows the clear options available it gets boring. | 1 | 1 | 1 | Use light non-white colors. |
+| When there are no available trading spots the system gives no information or error. | 4 | 4 | 4 | Show error or warning information to give user context. |
+| Documentation could be more interactive. | 1 | 1 | 1 | Implement tutorials in video. |
 
 | No feedback when trying to add interests. | 2 | 0 | 2 | Make the button darker on press/hold. |
 | Blurry screen on expertise/"level" screen. | 2 | 0 | 3 | Remove the blur. |
