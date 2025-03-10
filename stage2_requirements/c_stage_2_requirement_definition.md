@@ -100,10 +100,6 @@ The next day, Peter decides to leave in the morning to deliver his book to the c
 
 # Requirements
 
-
-
-
-
 ## C.1. Functional requirements
 
 
