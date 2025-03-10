@@ -29,5 +29,11 @@
 
 ## Screenshots
 
+![BookTrade screenshot 1](booktrade_screenshot_1.png)
+![BookTrade screenshot 2](booktrade_screenshot_2.png)
+![BookTrade screenshot 3](booktrade_screenshot_3.png)
+![BookTrade screenshot 4](booktrade_screenshot_4.png)
 
 ## Online Reviews
+
+As the app is not available for download, we couldn't find any reviews.

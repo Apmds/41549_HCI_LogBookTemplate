@@ -103,7 +103,7 @@ After finding a couple people who also want her books she chats with them and se
 - Edit profile informations (name, photo, localization, favourite genres).
 
 - Search books by name.
-- Search books by categories (genre, book length, distance to owner).
+- Search books by categories (genre, book length, distance to owner, ISBN).
 - Sort search results.
 
 - Send and recieve text and audio messages to/from another user in real time.
