@@ -96,12 +96,20 @@ After finding a couple people who also want her books she chats with them and se
     - General location.
     - Favourite genres.
 
+
+- Allow login and logoff of an account
+- Have the possibility to reset the password
+- Permanently delete the account
+- Edit profile informations (name, photo, localization, favourite genres)
+
 - Search books by name.
-- Search books by categories (genre, length, distance to owner).
+- Search books by categories (genre, book length, distance to owner).
 - Sort search results.
 
 - Send and recieve text and audio messages to/from another user in real time.
+- Allow user to know if a message has been seen by the receiver
 - Schedule a meeting place/drop-off spot for the trade.
+- Change book exchange status (pending, cancelled, done)
 - Review another user after executing a trade with them.
 - Create posts.
     - Add a title.
@@ -118,11 +126,14 @@ After finding a couple people who also want her books she chats with them and se
 - Block a user.
 - Report a user for one or more reasons.
 
+
 ## C.2. Non-functional requirements
 - The UI must be easy to navigate for people of all levels of technical proficiency.
 - The system should be available without downtime during the day, having room for downtime during the night.
 - The system should support multiple chats simulatenously.
 - The users information should be stored in a cryptographycally secured way.
+- The system should do regular backups to prevent losses of information
+- The application must be available on mobile devices
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
