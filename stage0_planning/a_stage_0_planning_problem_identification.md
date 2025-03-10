@@ -9,7 +9,7 @@
 # Context
 After reading a book enough times, people stop getting any use out of it besides keeping it in a bookshelf to gather dust.
 
-This application specializes in helping its users trade their books with other people, face to face, saving them time and money while giving them new books they chose to read.
+This application specializes in helping its users trade their books with other people, face to face, saving them time and money while giving them new books they choose to read.
 
 # Challenges
 As the app's purpose is to trade face to face, if there are no other users nearby with the exact book a user is looking for, the cost of transportation to an exchange location might outweigh the cost of simply buying the book.
