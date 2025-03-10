@@ -52,11 +52,13 @@
 # Scenarios
 
 ## Scenario 1: Exploring local literature in Buenos Aires
-## **[COMPLETAMENTE INACABADO]**
-Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like Jorge Luis Borges, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip.
+## **[INACABADO]**
+Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip instead of buying a new one.
 
-Emma wants to read a local novel that connects her to the city, but she doesn't want to buy a brand-new book, as she is traveling light.
-As she walks into the bookstore  ...
+As she walks into the bookstore, she receives a notification from the book trading app, letting her know that another traveler nearby has a copy of *Ficciones* available for exchange. Curious, she checks the user's profile and sees that he is a literature student from 
+Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
+
+While in the bookstore, she goes into the app and searches for the book *Ficciones*. A few results appear and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
 
 
 ## Scenario 2: Peter drops off a book
