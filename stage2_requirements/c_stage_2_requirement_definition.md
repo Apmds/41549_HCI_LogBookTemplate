@@ -115,11 +115,14 @@ After finding a couple people who also want her books she chats with them and se
     - When the book from a trade is available at the drop-off spot.
     - When someone messages them.
 
+- Block a user.
+- Report a user for one or more reasons.
+
 ## C.2. Non-functional requirements
 - The UI must be easy to navigate for people of all levels of technical proficiency.
 - The system should be available without downtime during the day, having room for downtime during the night.
 - The system should support multiple chats simulatenously.
-
+- The users information should be stored in a cryptographycally secured way.
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
