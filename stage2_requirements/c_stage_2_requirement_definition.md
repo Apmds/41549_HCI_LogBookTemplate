@@ -59,9 +59,9 @@
 # Scenarios
 
 ## Scenario 1: Exploring local literature in Buenos Aires
-Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, **it's difficult to carry many books with her**, so she prefers to exchange a book from her last trip instead of buying a new one.
+Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip instead of buying a new one.
 
-She goes into the app and searches for the book *Ficciones* she found in the bookstore. A few results appear and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
+She goes into the app and **searches for the book** *Ficciones* she found in the bookstore. A **few results appear** and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They **chat through the app** and agree to meet at a nearby cafe later to swap books. They swap their books and **give an evaluation** to each other on how was the trade.
 
 
 ## Scenario 3: Peter drops off a book
