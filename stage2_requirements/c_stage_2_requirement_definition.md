@@ -7,14 +7,6 @@
 >	- explain your vision for a novel solution that will target user motivations using Scenarios
 >	- identify requirements
 
-# Personas
-
-- Várias idades
-- Frequências/velocidade de leitura
-- Número de livros terminados
-- Procura livros específicos ou género
-- Onde vive (rural/urbano)
-
 
 ## Persona: Emma Walton 
 ### Summary 
@@ -67,16 +59,12 @@
 # Scenarios
 
 ## Scenario 1: Exploring local literature in Buenos Aires
-## **[INACABADO]**
-Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip instead of buying a new one.
+Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, **it's difficult to carry many books with her**, so she prefers to exchange a book from her last trip instead of buying a new one.
 
-As she walks into the bookstore, she receives a notification from the book trading app, letting her know that another traveler nearby has a copy of *Ficciones* available for exchange. Curious, she checks the user's profile and sees that he is a literature student from 
-Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
-
-While in the bookstore, she goes into the app and searches for the book *Ficciones*. A few results appear and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
+She goes into the app and searches for the book *Ficciones* she found in the bookstore. A few results appear and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They chat through the app and agree to meet at a nearby cafe later to swap books.
 
 
-## Scenario 2: Peter drops off a book
+## Scenario 3: Peter drops off a book
 Since Peter works late hours, meeting up with people to trade books becomes tricky. When searching for an interesting book, he finds out that the app has special **drop-off spots** - locations such as cafés or grocery shops.
 
 After finding a book that seemed interesting, he struck a deal by offering one of his old detective novels in the trade. They then decided to use one of the cities cafés as the drop-off spot, each giving an estimate of when they could **deliver** the books there. After an agreement was made, the trade was scheduled.
@@ -84,27 +72,54 @@ After finding a book that seemed interesting, he struck a deal by offering one o
 The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully.
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 4: Maya exchanges school books
+Maya has just started a new semester, and her professors have released the list of required textbooks. She checks the prices online and quickly realizes that **buying them all brand new would be far too expensive**. She sighs and opens a few second-hand book marketplaces but finds that many of the listings are outdated or already sold.
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+Frustrated, she decides to check the university library, but unfortunately, **only a limited number of copies are available**, and all have **already been borrowed**. She doesn’t have the time to wait on a long reservation list. Maya then spends an hour searching for free digital versions, but the PDFs she finds are either incomplete or unreliable.
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+Feeling overwhelmed, she finds out about our book trading app and starts searching for her required textbooks, finding other students who are looking for her last year's textbooks. After setting up meetings with them, she is able to aquire most of the books, but some of them are still missing.
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
-
+She then sees an option in the app for a **whishlist**, and decides to add the books she needs for her classes to hers. The next day, her phone vibrates, sending her a notification that Dharma.
+After finding a couple people who also want her books she chats with them and sets up a meeting where they will exchange their books, saving both of them money they can spend on better things while getting the books they need.
 
 ---
 
 
 # Requirements
 
+
 ## C.1. Functional requirements
 
+- Create an account.
+    - Username.
+    - Password.
+    - General location.
+    - Favourite genres.
+
+- Search books by name.
+- Search books by categories (genre, length, distance to owner).
+- Sort search results.
+
+- Send and recieve text and audio messages to/from another user in real time.
+- Schedule a meeting place/drop-off spot for the trade.
+- Review another user after executing a trade with them.
+- Create posts.
+    - Add a title.
+    - Add a description.
+    - Add images.
+    - Set information about the book. (number of pages, condition) 
+
+- Add a book to a wishlist.
+- Notify the user:
+    - When a post about a book from the wishlist exists nearby.
+    - When the book from a trade is available at the drop-off spot.
+    - When someone messages them.
 
 ## C.2. Non-functional requirements
+- The UI must be easy to navigate for people of all levels of technical proficiency.
+- The system should be available without downtime during the day, having room for downtime during the night.
+- The system should support multiple chats simulatenously.
 
 
 ---
-[Back to main Logbook Page](hci_logbook.md)
+[Back to main Logbook Page](../hci_logbook.md)
