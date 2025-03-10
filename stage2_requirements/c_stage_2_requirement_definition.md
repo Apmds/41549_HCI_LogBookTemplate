@@ -59,8 +59,12 @@ Emma wants to read a local novel that connects her to the city, but she doesn't 
 As she walks into the bookstore  ...
 
 
-## Scenario 2: 
+## Scenario 2: Peter drops off a book
+Since Peter works late hours, meeting up with people to trade books becomes tricky. When searching for an interesting book, he finds out that the app has special **drop-off spots** - locations such as cafés or grocery shops.
 
+After finding a book that seemed interesting, he struck a deal by offering one of his old detective novels in the trade. They then decided to use one of the cities cafés as the drop-off spot, each giving an estimate of when they could **deliver** the books there. After an agreement was made, the trade was scheduled.
+
+The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully.
 
 
 ## Scenario 1: Maria goes on a Museum Tour
