@@ -64,7 +64,7 @@ Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentin
 She goes into the app and **searches for the book** *Ficciones* she found in the bookstore. A **few results appear** and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They **chat through the app** and agree to meet at a nearby cafe later to swap books. They swap their books and **give an evaluation** to each other on how was the trade.
 
 
-## Scenario 3: Peter drops off a book
+## Scenario 2: Peter drops off a book
 Since Peter works late hours, meeting up with people to trade books becomes tricky. When searching for an interesting book, he finds out that the app has special **drop-off spots** - locations such as cafés or grocery shops.
 
 After finding a book that seemed interesting, he struck a deal by offering one of his old detective novels in the trade. They then decided to use one of the cities cafés as the drop-off spot, each giving an estimate of when they could **deliver** the books there. After an agreement was made, the trade was scheduled.
@@ -72,7 +72,7 @@ After finding a book that seemed interesting, he struck a deal by offering one o
 The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully.
 
 
-## Scenario 4: Maya exchanges school books
+## Scenario 3: Maya exchanges school books
 Maya has just started a new semester, and her professors have released the list of required textbooks. She checks the prices online and quickly realizes that **buying them all brand new would be far too expensive**. She sighs and opens a few second-hand book marketplaces but finds that many of the listings are outdated or already sold.
 
 Frustrated, she decides to check the university library, but unfortunately, **only a limited number of copies are available**, and all have **already been borrowed**. She doesn’t have the time to wait on a long reservation list. Maya then spends an hour searching for free digital versions, but the PDFs she finds are either incomplete or unreliable.
