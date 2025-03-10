@@ -46,8 +46,6 @@
 | **Full Profile** | [📄 Read More](personas/persona3_Peter.md) |
 
 ---
-
----
 ## Persona: Maya Wu
 ### Summary 
 | Attribute        | Details                                       |
