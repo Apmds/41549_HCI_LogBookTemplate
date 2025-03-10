@@ -47,6 +47,23 @@
 
 ---
 
+---
+## Persona: Maya Wu
+### Summary 
+| Attribute        | Details                                       |
+| ---------------- | --------------------------------------------- |
+| **Photo**        | <img src="personas/persona1.jpeg" width="80">  |
+| **Name**         | Maya Wu                              |
+| **Age**          | 22                                |
+| **Occupation**   | Student                           |
+| **Location**     | Jacarta, Indonesia                               |
+| **Goals**        | Save money and give new use to academic books not used anymore. |
+| **Pain Points**  | Difficulty in finding afordable and accessible books for her classes. |
+| **Motivation**   | Save time searching for books so she can focus in the main goal: studying. |
+| **Full Profile** | [📄 Read More](personas/persona1_Maya.md) |
+
+---
+
 
 
 # Scenarios

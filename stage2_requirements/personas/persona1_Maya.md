@@ -1,5 +1,5 @@
 # <img src="persona1.jpeg" width="150">
-**Name:** Maya 
+**Name:** Maya Wu
 **Age:** 22
 **Occupation:** Student  
 **Location:** Jacarta, Indonesia
