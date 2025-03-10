@@ -97,25 +97,27 @@ After finding a couple people who also want her books she chats with them and se
     - Favourite genres.
 
 
-- Allow login and logoff of an account
-- Have the possibility to reset the password
-- Permanently delete the account
-- Edit profile informations (name, photo, localization, favourite genres)
+- Allow login and logoff of an account.
+- Have the possibility to reset the password.
+- Permanently delete the account.
+- Edit profile informations (name, photo, localization, favourite genres).
 
 - Search books by name.
 - Search books by categories (genre, book length, distance to owner).
 - Sort search results.
 
 - Send and recieve text and audio messages to/from another user in real time.
-- Allow user to know if a message has been seen by the receiver
+- Allow user to know if a message has been seen by the receiver.
+- Allow user to offer one of their books to trade.
 - Schedule a meeting place/drop-off spot for the trade.
-- Change book exchange status (pending, cancelled, done)
+- See the history of trades.
+- Check the status of a trade (pending, ongoing, done).
 - Review another user after executing a trade with them.
 - Create posts.
     - Add a title.
     - Add a description.
     - Add images.
-    - Set information about the book. (number of pages, condition) 
+    - Set information about the book. (number of pages, condition). s
 
 - Add a book to a wishlist.
 - Notify the user:
@@ -125,7 +127,8 @@ After finding a couple people who also want her books she chats with them and se
 
 - Block a user.
 - Report a user for one or more reasons.
-
+- Cancel a trade.
+- See all current active trades.
 
 ## C.2. Non-functional requirements
 - The UI must be easy to navigate for people of all levels of technical proficiency.
