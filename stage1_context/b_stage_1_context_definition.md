@@ -199,6 +199,7 @@ The most important tasks in a item trading app are all related to performing a t
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
 | 24-02-2025 | Gabriela / student      | Never traded books; Never found anyone with the same literary style | [📄 Notes](interviews/interview-Gabriela.md) |     |
 | 24-02-2025 | Subject1(Anonymous) / public employee | Open to trading old books; Does not look for specific books | [📄 Notes](interviews/interview-Subject1.md) |     |
+| 24-02-2025 | Rui / student | Open to trading books; Would trade books if he liked the app | [📄 Notes](interviews/interview-Rui.md) |     |
 
 ### Common Themes & Patterns 
 
