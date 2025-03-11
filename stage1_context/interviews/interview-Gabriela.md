@@ -6,10 +6,6 @@
 - **Context:** The interview was carried out via video call with the participant at home 
 
 
-## Highlights
-
-...
-
 ## Interview
     
 **Tell me about your free time. What do you like to do?**

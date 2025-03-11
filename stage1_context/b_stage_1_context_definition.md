@@ -112,8 +112,8 @@ The most important tasks in a item trading app are all related to performing a t
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
 | 1      | Click on the '+' button. | Yes | The button has a different color from the rest and has a symbol indicating the action. | Yes | A list of creatable options show up uppon clicking. | Yes |  |  |
 | 2      | Select "Post" from the options. | Yes | The option is clearly visible and has a label indicating it is a Post. | Yes | The post creation page appears when pressing the button. | Yes |  |  |
-| 3      | Fill out the post details. | Yes | Everywhere that information can be inputted in contains a clear label/description. | Yes and No | The information shows up in the fields and the images show the loading progress, but when selecting the meeting spot, only a blank window shows up. | No | Fix the location selecting. |  |
-| 4     | Press the "Post" button. | Yes | The button lights up after filing every mandatory field. | Yes | A message confirming the post was created shows up. | Yes |  |  |
+| 3      | Fill out the post details. | Yes | Everywhere that information can be inputted in contains a clear label/description. | Yes* | The information shows up in the fields and the images show the loading progress, but when selecting the meeting spot, only a blank window shows up. | No | Fix the location selecting. |  |
+| 4     | Press the "Post" button. | No | The button does not light up because a meeting stop can't be selected. | No | There is no way to progress. | No |  |  |
 
 
 ### Task: Searching for an item
@@ -197,8 +197,8 @@ The most important tasks in a item trading app are all related to performing a t
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 24-02-2025 | Gabriela / student      | Never traded books; Never found anyone with the same literary style | [📄 Notes](interviews/interview-Gabriela.md) |     |
+| 24-02-2025 | Subject1(Anonymous) / public employee | Open to trading old books; Does not look for specific books | [📄 Notes](interviews/interview-Subject1.md) |     |
 
 ### Common Themes & Patterns 
 
@@ -236,15 +236,17 @@ The most important tasks in a item trading app are all related to performing a t
  - The home page has almost no relevant information, and most of what is there must be found by scrolling to the side.
  - No function to send an image to chat.
  - No way of deleting a post after a chat about it has been created.
+ - App only available in certain cities.
 
 #### Opportunities:
 
- - Add option to change main colors (for colorblind users).
+ - Add more accessibility options (change colors for the coloblind, etc.)
+ - Expand the app to more cities.
  - Create a quick guide for new users to learn the most basic aspects of the app.
 
 #### Threats:
 
- - Negative behaviour of the userbase can lead to decline in interest in the platform, if not treated accordingly.
+ - Negative oppinions of the userbase can lead to decline in interest in the platform, if not treated accordingly.
  - The bartering/trading principle is lost if users ask for money/gift cards instead of other items.
 
 ---
