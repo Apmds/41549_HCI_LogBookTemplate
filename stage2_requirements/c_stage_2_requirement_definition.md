@@ -19,7 +19,7 @@
 | **Location**     | London, UK                               |
 | **Goals**        | Find new exciting reads without the burden of carrying around too many books           |
 | **Pain Points**  | Logistics of tranporting books              |
-| **Motivation**   | Make reading part of her jouney in a practical way              |
+| **Motivation**   | Make reading part of her journey in a practical way              |
 | **Full Profile** | [📄 Read More](personas/persona2_Emma.md) |
 
 ---
@@ -58,7 +58,7 @@
 
 # Scenarios
 
-## Scenario 1: Exploring local literature in Buenos Aires
+## Scenario 1: Emma explores local literature in Buenos Aires
 Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip instead of buying a new one.
 
 She goes into the app and **searches for the book** *Ficciones* she found in the bookstore. A **few results appear** and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They **chat through the app** and agree to meet at a nearby cafe later to swap books. They swap their books and **rate** each other on how was the exchange.
@@ -69,7 +69,7 @@ Since Peter works late hours, meeting up with people to trade books becomes tric
 
 After finding a book that seemed interesting, he struck a deal by offering one of his old detective novels in the trade. They then decided to use one of the cities cafés as the drop-off spot, each giving an estimate of when they could **deliver** the books there. After an agreement was made, the trade was scheduled.
 
-The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully.
+The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully. Peter then gives a  review to the other person since his book arrived on time and was in good condition.
 
 
 ## Scenario 3: Maya exchanges school books
@@ -97,7 +97,7 @@ After finding a couple people who also want her books she chats with them and se
     - Favourite genres.
 
 
-- Allow login and logoff of an account.
+- Allow login and logout of an account.
 - Have the possibility to reset the password.
 - Permanently delete the account.
 - Edit profile informations (name, photo, localization, favourite genres).
@@ -133,7 +133,7 @@ After finding a couple people who also want her books she chats with them and se
 ## C.2. Non-functional requirements
 - The UI must be easy to navigate for people of all levels of technical proficiency.
 - The system should be available without downtime during the day, having room for downtime during the night.
-- The system should support multiple chats simulatenously.
+- The system should support multiple chats simultaneously.
 - The users information should be stored in a cryptographycally secured way.
 - The system should do regular backups to prevent losses of information
 - The application must be available on mobile devices

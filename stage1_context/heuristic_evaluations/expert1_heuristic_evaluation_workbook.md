@@ -6,7 +6,8 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 **Date**: 24-02-2025
 **Product**: BUNZ
 
-Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
+Severity Scale adopted: [[severity_scale_heuristic_evaluation](severity_scale_heuristic_evaluation.md)]
+
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
 # 1 Visibility of System Status
