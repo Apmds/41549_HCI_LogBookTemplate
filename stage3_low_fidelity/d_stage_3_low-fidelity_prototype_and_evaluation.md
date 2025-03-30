@@ -5,12 +5,11 @@
 
 Tarefas:
  - "És um leitor de livros e adoras livros de ficção científica, romance e thriller, atualiza os teus géneros preferidos."
- - "Tens este livro com isbn 3b12o2e j2oeb423hb12oi, disponibiliza-o para outras pessoas o poderem ver, mencionando que preferes encontrar-te no Fórum Aveiro para o trocar e que ele não tem defeitos físicos." 
+ - "Disponibiliza o livro Perry Mason - The Case of the Demure Defendant (ISBN 978-8186734896) para outras pessoas o poderem ver, mencionando que preferes encontrar-te no Fórum Aveiro para o trocar e que ele não tem defeitos físicos." 
  - "Procura descobrir se está disponível o livro O Hobbit e se estiver, vê em detalhe a postagem que tiver as melhores classificações."
  - "Envia um "Olá!" à Emma e marca uma troca com ela. Essa troca será do livro que acabaste de disponibilizar, para o dia de hoje (1 de abril) às 15:30 no Fórum Aveiro."
-
- - Por livro na wishlist.
- - Responde a uma pessoa que te enviou mensagem.
+ - "Estás à procura de livros do Gerónimo Stilton para ler. Regista "Gerónimo Stilton" na aplicação para seres lembrado quando alguém o disponibilizar."
+ - "Alguém enviou-te uma mensagem! Vê quem foi e o que disseram."
 
 ## D.1. Low Fidelity Prototype
 
