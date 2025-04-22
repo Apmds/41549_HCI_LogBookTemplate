@@ -15,6 +15,9 @@ Tarefas:
  - "Alguém enviou-te uma mensagem! Vê quem foi e o que disseram, e responde de acordo."
 
 ## D.1. Low Fidelity Prototype
+# <img src="images/generos_perfil.jpg" width="200">
+# <img src="images/perfil_livro.jpg" width="200">
+# <img src="images/resultados_pesquisa.jpg" width="200">
 
 ## D.2. Prototype Evaluation
 
