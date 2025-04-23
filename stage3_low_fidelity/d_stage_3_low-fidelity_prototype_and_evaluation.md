@@ -16,8 +16,11 @@ Tarefas:
 
 ## D.1. Low Fidelity Prototype
 # <img src="images/generos_perfil.jpg" width="200">
-# <img src="images/perfil_livro.jpg" width="200">
+# <img src="images/Menu_inicial_pesquisa.jpg" width="200">
 # <img src="images/resultados_pesquisa.jpg" width="200">
+# <img src="images/perfil_livro.jpg" width="200">
+# <img src="images/Chats.jpg" width="200">
+# <img src="images/Propor_troca.jpg" width="200">
 
 ## D.2. Prototype Evaluation
 
