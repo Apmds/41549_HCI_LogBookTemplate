@@ -24,6 +24,25 @@ Tarefas:
 
 ## D.2. Prototype Evaluation
 
+With the prototype evaluation, we found certain things that need to be changed or to be improved:
+- New messages on top (on the chat screen)
+- Chat icon indication if new messages
+- Indicate better which book is ours (selecting book to trade)
+- Add to wishlist by profile
+- Indicate better which book belongs to each user
+- Better genre selection (maybe a checkbox)
+- Optional notes at the end, when posting a book
+- Search for location (not only select on the map)
+- Feedback when selecting favorite genres
+- It's not clear if the books in the feed are ours or not
+- It's better to display the isbn dashes in the textfield, to help the user confirm
+- After enter the isbn, know imediatly the book, to know if it's the correct one
+- Choose more than one book to trade
+- Allow the other person to see our books and choose which ones tehy want to exchange
+- Bigger icons
+- Search icon is a bit hidden
+- **Some confusion choosing the book to trade**
+
 ---
 [Back to main Logbook Page](../hci_logbook.md)
 
