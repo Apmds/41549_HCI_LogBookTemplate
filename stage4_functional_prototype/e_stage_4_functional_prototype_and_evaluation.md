@@ -4,8 +4,27 @@
 
 # E. Functional Prototype and Evaluation
 
-# Prototype
+Tasks:
 
+- "You love science fiction, romance and thriller books. With that, update your favourite genres."
+
+- "Make the book “Perry Mason - The Case of the Demure Defendant” (ISBN 978-0345-371-485) available for other people to see, mentioning that your preferred meeting place is Fórum Aveiro and that the book itself does not have physical damage. Also add a cover and back cover photo."
+
+- "Find the book “O Hobbit” with the best ratings and open its page."
+
+- "Propose an exchange to the owner of the book you found before. This exchange will involve the book you just made available (Perry Mason - The Case of the Demure Defendant), and it will take place today at 3:30pm at the Forum Aveiro."
+
+- "You are looking for the book “Um Amigo Surpresa” by Geronimo Stilton to read. If you can’t find it, register it in the app to be reminded when someone makes it available."
+
+# Prototype
+<table>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+</table>
 
 
 # E.X. User Evaluation
