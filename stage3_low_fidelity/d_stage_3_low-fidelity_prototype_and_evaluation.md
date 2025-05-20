@@ -24,7 +24,7 @@ Tarefas:
 
 ## D.2. Prototype Evaluation
 
-With the prototype evaluation, we found certain things that need to be changed or to be improved:
+With the prototype evaluation, we found certain things that need to be changed or improved:
 - New messages on top (on the chat screen)
 - Chat icon indication if new messages
 - Indicate better which book is ours (selecting book to trade)
