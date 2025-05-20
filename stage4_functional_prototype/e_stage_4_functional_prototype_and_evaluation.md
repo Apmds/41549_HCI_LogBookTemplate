@@ -29,7 +29,7 @@ Tasks:
 
 # E.X. User Evaluation
 
-With the prototype evaluation, we found certain things that need to be changed or improved:
+With the prototype evaluation, we found certain things that need to be changed or/and improved:
 
 - In the chat, the menu to select the book needs to disappear when tapping out
 - Select location on search
