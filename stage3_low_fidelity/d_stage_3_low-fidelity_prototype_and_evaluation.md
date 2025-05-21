@@ -34,6 +34,9 @@ Tarefas:
     <td>
         <img src="images/Propor_troca.jpg" width="200">
     </td>
+    <td>
+        <img src="images/post_isbn.jpg" width="200">
+    </td>
 </table>
 
 ## D.2. Prototype Evaluation
