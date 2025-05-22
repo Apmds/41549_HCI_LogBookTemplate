@@ -53,7 +53,7 @@ With the prototype evaluation, we found certain things that need to be changed o
 - Feedback when selecting favorite genres
 - It's not clear if the books in the feed are ours or not
 - It's better to display the isbn dashes in the textfield, to help the user confirm
-- After enter the isbn, know imediatly the book, to know if it's the correct one
+- After entering the ISBN, immediately find out the book, to know if it is the correct one.
 - Choose more than one book to trade
 - Allow the other person to see our books and choose which ones tehy want to exchange
 - Bigger icons
