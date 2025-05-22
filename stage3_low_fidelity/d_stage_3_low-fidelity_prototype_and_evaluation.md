@@ -3,16 +3,16 @@
 ---
 # Low Fidelity Prototype and Evaluation
 
-Tarefas:
- - "És um leitor de livros e adoras livros de ficção científica, romance e thriller, atualiza os teus géneros preferidos."
+Tasks:
+ - "You are a bookworm and love science fiction, romance and suspense books, update your favorite genres."
 
- - "Disponibiliza o livro Perry Mason - The Case of the Demure Defendant (ISBN 978-8186734896) para outras pessoas o poderem ver, mencionando que preferes encontrar-te no Fórum Aveiro para o trocar e que ele não tem defeitos físicos, adicionando uma foto da capa e outra foto da contracapa." 
+ - "Make the book Perry Mason - The Case of the Demure Defendant (ISBN 978-8186734896) available for other people to see, mentioning that you prefer to meet at Fórum Aveiro to exchange it and that it has no physical defects, adding a photo of the cover and another photo of the back cover."
 
- - "Procura descobrir se está disponível o livro O Hobbit e se estiver, vê em detalhe a postagem que tiver as melhores classificações, envia um "Olá!" ao dono do livro e propoe-lhe uma troca. Essa troca será do livro que acabaste de disponibilizar, para o dia de hoje (1 de abril) às 15:30 no Fórum Aveiro."
+ - "Find out if the book The Hobbit is available and if it is, take a closer look at the post with the highest ratings, send a "Hello!" to the owner of the book and propose an exchange. This exchange will be for the book you just made available, for today (April 1st) at 3:30 pm at the Aveiro Forum."
 
- - "Estás à procura do livro "Na Rota de Vasco da Gama - Uma Aventura em Portugal" do Gerónimo Stilton para ler. Se não encontrares, regista-o na aplicação para seres lembrado quando alguém o disponibilizar."
+ - "Are you looking for the book "Na Rota de Vasco da Gama - Uma Aventura em Portugal" by Gerónimo Stilton to read? If you can't find it, register it in the app so you'll be reminded when someone makes it available."
 
- - "Alguém enviou-te uma mensagem! Vê quem foi e o que disseram, e responde de acordo."
+ - "Someone sent you a message! See who it was, what they said, and respond accordingly."
 
 ## D.1. Low Fidelity Prototype
 <table>
