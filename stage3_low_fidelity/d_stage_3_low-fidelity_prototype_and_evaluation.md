@@ -46,7 +46,7 @@ With the prototype evaluation, we found certain things that need to be changed o
 - Chat icon indication if new messages
 - Indicate better which book is ours (selecting book to trade)
 - Add to wishlist by profile
-- Indicate better which book belongs to each user
+- Better indicate which book belongs to each user
 - Better genre selection (maybe a checkbox)
 - Optional notes at the end, when posting a book
 - Search for location (not only select on the map)
