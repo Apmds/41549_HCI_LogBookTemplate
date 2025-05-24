@@ -1,0 +1,53 @@
+user code: 80
+
+sugestão de pequeno tutorial
+
+task 1:
+	completed: sim
+	max time observed: some
+	number of errors: 1
+	lost?: no	slightly X	a lot 
+	help?: no X	yes		where: 
+	observed difficulty: 4 
+	observations: não viu logo o perfil em cima
+
+
+task 2:
+	completed: sim
+	max time observed: some
+	number of errors: 1
+	lost?: no 	slightly X	a lot
+	help?: no X	yes		where:
+	observed difficulty: 3
+	observations: não acossiou logo que o + era de criar post. adicionar livro pelo perfil, maps não funciona -_-
+
+
+task 3:
+	completed: sim
+	max time observed: small
+	number of errors: 0
+	lost?: no X	slightly	a lot
+	help?: no X	yes		where:
+	observed difficulty: 5
+	observations: 
+
+
+task 4:
+	completed: sim
+	max time observed: expected
+	number of errors: 0
+	lost?: no X	slightly 	a lot
+	help?: no X	yes 		where: 
+	observed difficulty: 5
+	observations: 
+
+
+task 5:
+	completed: sim
+	max time observed: small
+	number of errors: 0
+	lost?: no 	slightly X	a lot
+	help?: no X	yes		where:
+	observed difficulty: 4 
+	observations: não viu o botão de adicionar à wishlist pelas pesquisas
+

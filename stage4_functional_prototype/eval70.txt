@@ -1,0 +1,51 @@
+user code: 70
+
+task 1:
+	completed: sim
+	max time observed: muito
+	number of errors: a lot
+	lost?: no	slightly	a lot X
+	help?: no	yes X		where: não sabia a tarefa
+	observed difficulty: 2
+	observations:
+
+
+task 2:
+	completed: sim
+	max time observed: muito
+	number of errors: some
+	lost?: no	slightly X	a lot
+	help?: no X	yes		where:
+	observed difficulty: 3 - 4
+	observations: adicionar opção de adicionar livro ao perfil, problemas na localização
+
+
+task 3:
+	completed: sim
+	max time observed: less
+	number of errors: 0
+	lost?: no X	slightly	a lot
+	help?: no X	yes		where:
+	observed difficulty: 5
+	observations: 
+
+
+task 4:
+	completed: sim
+	max time observed: less
+	number of errors: 1
+	lost?: no	slightly X	a lot
+	help?: no	yes X		where: não viu o lugar de trocar livros
+	observed difficulty: 4
+	observations: fez tudo por mensagem (não reparou no texto no meio)
+
+
+task 5:
+	completed: sim
+	max time observed: less
+	number of errors: 1
+	lost?: no X	slightly	a lot
+	help?: no X	yes		where:
+	observed difficulty: 5
+	observations:
+
