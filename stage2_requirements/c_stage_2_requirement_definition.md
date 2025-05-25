@@ -2,66 +2,35 @@
 
 ---
 # C. Requirement Definition
->	Based on all the gathered context, including an understanding of current practices, competitors, and user feedback and expectations: 
->	- summarize the user characteristics, context, and motivations using Personas
->	- explain your vision for a novel solution that will target user motivations using Scenarios
->	- identify requirements
-
-
-## Persona: Emma Walton 
-### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | <img src="personas/persona2.jpg" width="80">  |
-| **Name**         | Emma Walton                                |
-| **Age**          | 30                               |
-| **Occupation**   | Travel Blogger                           |
-| **Location**     | London, UK                               |
-| **Goals**        | Find new exciting reads without the burden of carrying around too many books           |
-| **Pain Points**  | Logistics of tranporting books              |
-| **Motivation**   | Make reading part of her journey in a practical way              |
-| **Full Profile** | [📄 Read More](personas/persona2_Emma.md) |
 
 ---
-## Persona: Peter Smith
+## Persona: Peter Walton
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | <img src="personas/persona3.jpeg" width="80">  |
-| **Name**         | Peter Smith                              |
+| **Photo**        | <img src="personas/persona.jpeg" width="80">  |
+| **Name**         | Peter Walton                              |
 | **Age**          | 58                                |
 | **Occupation**   | Bartender                           |
 | **Location**     | Quebec, Canada                               |
 | **Goals**        | Find new books to read and free up space taken by old ones. |
 | **Pain Points**  | Difficult schedule to trade books. Not tech-savvy. |
 | **Motivation**   | Give new use to old books and read new ones. |
-| **Full Profile** | [📄 Read More](personas/persona3_Peter.md) |
+| **Full Profile** | [📄 Read More](personas/persona_Peter.md) |
 
 ---
-## Persona: Maya Wu
-### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | <img src="personas/persona1.jpeg" width="80">  |
-| **Name**         | Maya Wu                              |
-| **Age**          | 22                                |
-| **Occupation**   | Student                           |
-| **Location**     | Jacarta, Indonesia                               |
-| **Goals**        | Save money and give new use to academic books not used anymore. |
-| **Pain Points**  | Difficulty in finding afordable and accessible books for her classes. |
-| **Motivation**   | Save time searching for books so she can focus in the main goal: studying. |
-| **Full Profile** | [📄 Read More](personas/persona1_Maya.md) |
-
----
-
 
 
 # Scenarios
 
-## Scenario 1: Emma explores local literature in Buenos Aires
-Emma Walton, a travel blogger and book lover, is visiting Buenos Aires, Argentina, for two weeks, for explore its literary and cultural heritage. She has heard that Buenos Aires has a deep literary history, with famous authors like *Jorge Luis Borges*, and she wants to dive into their works. She visits El Ateneo Grand Splendid, a famous book store hoping to find a book by an Argentine author in English. But since she is always traveling, it's difficult to carry many books with her, so she prefers to exchange a book from her last trip instead of buying a new one.
+## Scenario 1: Peter explores Quebec's local literature
+Peter’s interest in detective fiction has recently led him to explore classic Canadian and French-language authors. While browsing in the local library, he notices a section featuring regional literature. Unfortunately, the library does not have **English translations** for most of the books he wants.
 
-She goes into the app and **searches for the book** *Ficciones* she found in the bookstore. A **few results appear** and she chooses one, which happens to be by a literature student from Germany who is also exploring Argentina. They **chat through the app** and agree to meet at a nearby cafe later to swap books. They swap their books and **rate** each other on how was the exchange.
+Back at home, he opens the book trading app and searches for ***The Crime on Cote des Neiges***, a local detective story he saw at the library. He finds a few listings and notices one from another local user who recently finished the book and is looking for a **Raymond Chandler** novel, which Peter has just finished.
+
+He then messages the user through the app they meet up the next day. They agree to do the swap at the bar Peter works at, right before his shift. The next day the trade is completed smoothly, and Peter gets to enjoy his new read.
+
+Afterward, he leaves the user a generous review.
 
 
 ## Scenario 2: Peter drops off a book
@@ -72,15 +41,16 @@ After finding a book that seemed interesting, he struck a deal by offering one o
 The next day, Peter decides to leave in the morning to deliver his book to the café. After arriving, he **confirms his identity** to the attendant and leaves his novel with them. Later in the afternoon, his phone recieves a **notification** - the book he was to recieve in the trade has arrived in the café and is ready to be **picked up**. So, before going to work, he passes by the café to pick up his new book. The cashier asks him again for his identity and hands him the book, making him recieve **another notification** on his phone that the trade was completed successfully. Peter then gives a  review to the other person since his book arrived on time and was in good condition.
 
 
-## Scenario 3: Maya exchanges school books
-Maya has just started a new semester, and her professors have released the list of required textbooks. She checks the prices online and quickly realizes that **buying them all brand new would be far too expensive**. She sighs and opens a few second-hand book marketplaces but finds that many of the listings are outdated or already sold.
+## Scenario 3: Peter adds new books to his wishlist
+During a quiet shift at the bar, Peter hears a conversation about a new collection of **Detective Jordan Carr** books. After engaging with the people talking, he becomes interested in the main plot points and reminds himself to look for them.
 
-Frustrated, she decides to check the university library, but unfortunately, **only a limited number of copies are available**, and all have **already been borrowed**. She doesn’t have the time to wait on a long reservation list. Maya then spends an hour searching for free digital versions, but the PDFs she finds are either incomplete or unreliable.
+Back at home, he finds the **ISBN** of the new books and goes **searching** for them in the book trading app. As the books are new, nobody has put them up for trading on the app yet.
 
-Feeling overwhelmed, she finds out about our book trading app and starts searching for her required textbooks, finding other students who are looking for her last year's textbooks. After setting up meetings with them, she is able to aquire most of the books, but some of them are still missing.
+Not wanting to buy even more books, he decides to open the app's **wishlist** and adds all the books of the collection there.
 
-She then sees an option in the app for a **whishlist**, and decides to add the books she needs for her classes to hers. The next day, her phone vibrates, sending her a notification that Dharma.
-After finding a couple people who also want her books she chats with them and sets up a meeting where they will exchange their books, saving both of them money they can spend on better things while getting the books they need.
+A week later, while browsing Facebook, his phone buzzes with a **notification**: the first book of the collection was posted by another user in Quebec!
+
+After opening the app again, he starts chatting and both settle on a trade that day at the bar, while Peter is working. Finnaly, he can start this new collection without paying for anything.
 
 ---
 

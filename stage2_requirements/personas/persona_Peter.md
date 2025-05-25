@@ -1,4 +1,4 @@
-# <img src="persona3.jpeg" width="150">
+# <img src="persona.jpeg" width="150">
 **Name:** Peter Smith  
 **Age:** 58  
 **Occupation:** Bartender  

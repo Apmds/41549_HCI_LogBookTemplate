@@ -29,6 +29,8 @@ Tasks:
 
 # E.X. User Evaluation
 
+[User screen recordings](https://drive.google.com/drive/folders/1ml2vwxHAi8qVEqWIX87hyjiFsuQmDWBM?usp=sharing)
+
 With the prototype evaluation, we found certain things that need to be changed or/and improved:
 
 - In the chat, the menu to select the book needs to disappear when tapping out
