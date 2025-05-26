@@ -25,37 +25,24 @@
     <td>
         <img src="images/02.jpg" width="200">
     </td>
-    <!-- Pesquisa
     <td>
-        <img src="images/03.jpg" width="200">
+        <img src="images/21.jpg" width="200">
     </td>
-    -->
-    <!-- Tem barra em baixo
     <td>
-        <img src="images/04.jpg" width="200">
+        <img src="images/22.jpg" width="200">
     </td>
-    -->
-    <!-- Tem barra em baixo
     <td>
-        <img src="images/05.jpg" width="200">
+        <img src="images/23.jpg" width="200">
     </td>
-    -->
-    <!-- Ordenação da pesquisa
-    <td>
-        <img src="images/06.jpg" width="200">
-    </td>
-    -->
     <td>
         <img src="images/07.jpg" width="200">
     </td>
     <td>
         <img src="images/08.jpg" width="200">
     </td>
-    <!-- Tem traços no textfield
     <td>
-        <img src="images/09.jpg" width="200">
+        <img src="images/24.jpg" width="200">
     </td>
-    -->
     </tr>
     <tr>
     <td>
@@ -76,16 +63,9 @@
     <td>
         <img src="images/15.jpg" width="200">
     </td>
-    <!-- Novo aviso de confirmação de postagem
-    <td>
-        <img src="images/16.jpg" width="200">
+     <td>
+        <img src="images/25.jpg" width="200">
     </td>
-    -->
-    <!-- Novo aviso para colocar na wishlist
-    <td>
-        <img src="images/17.jpg" width="200">
-    </td>
-    -->
     </tr>
 </table>
 
