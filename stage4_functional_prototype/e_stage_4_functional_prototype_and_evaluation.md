@@ -72,9 +72,41 @@
 
 # E.X. User Evaluation
 
-[User screen recordings](https://drive.google.com/drive/folders/1ml2vwxHAi8qVEqWIX87hyjiFsuQmDWBM?usp=sharing)
+In total, **11** presentations were made, **5** during the designated class and **6** afterwards at home (these last 6 were made with the new prototype)
 
-With the prototype evaluation, we found certain things that need to be changed or/and improved:
+## [User screen recordings](https://drive.google.com/drive/folders/1ml2vwxHAi8qVEqWIX87hyjiFsuQmDWBM?usp=sharing)
+
+## Evalutation tables
+
+These are the evaluation tables made during the evaluation class, with the results and feedback.
+
+<img src="evaluations/results_test_1.jpeg" width="300">
+<img src="evaluations/results_test_2.jpeg" width="300">
+<img src="evaluations/results_test_3.jpeg" width="300">
+<img src="evaluations/results_test_4.jpeg" width="300">
+<img src="evaluations/results_test_5.jpeg" width="300">
+
+## Feedback form
+
+The results gotten from the feedback form made with Google Forms.
+
+The feedback form used System Usability Scale (SUS), with an evaluation of **95**.
+
+<tr>
+<td>
+    <img src="form/experience_chart.png" width="300">
+</td>
+<td>
+    <img src="form/gender_chart.png" width="300">
+</td>
+<td>
+    <img src="form/occupation_chart.png" width="300">
+</td>
+</tr>
+
+<img src="form/SUS_charts.png">
+
+## Improvements to be made
 
 - In the chat, the menu to select the book needs to disappear when tapping out
 - Select location on search

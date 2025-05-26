@@ -1,22 +1,24 @@
 <!-- 
 This markdown document will contain all information and decisions concerning the HCI project for
-< The Title of the Project Here >
-Work carried out by:
+ReadCycle
+Work carried out by: António Santos, Gonçalo Silva, Gonçalo Simões
 
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: ReadCycle
 **Team:**
 - Student 1: António Santos nº 119139
 - Student 2: Gonçalo Silva nº 115950
 - Student 3: Gonçalo Simões nº 119412
 
 ---
+### [Link to ReadCycle repository on GitHub](https://github.com/goncaloosimoes/ReadCycle)
+
+---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
-<!-- For this stage you will need to read this:-->
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
@@ -26,7 +28,6 @@ Work carried out by:
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
-<!-- Based on the context definition and the devised scenarios, specify the requirements -->
 
 
 ---
