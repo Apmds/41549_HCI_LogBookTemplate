@@ -43,11 +43,11 @@ Tasks:
     <td>
         <img src="images/08.jpg" width="200">
     </td>
-    </tr>
-    <tr>
     <td>
         <img src="images/09.jpg" width="200">
     </td>
+    </tr>
+    <tr>
     <td>
         <img src="images/10.jpg" width="200">
     </td>
@@ -68,6 +68,9 @@ Tasks:
     </td>
     <td>
         <img src="images/16.jpg" width="200">
+    </td>
+    <td>
+        <img src="images/17.jpg" width="200">
     </td>
     </tr>
 </table>
