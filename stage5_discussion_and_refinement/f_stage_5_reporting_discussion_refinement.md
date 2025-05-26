@@ -7,6 +7,14 @@
 
 # Refinement List
 
+- Searching for a book in the home screen now has suggestions and search history.
+- Searching in the search screen now updates the results as the search is being made.
+- The buttons for editing the profile are easier to be clicked on.
+- Posting a book now has a clearer aknowledgement message.
+- Search results can be ordered by user rating or by the date of posting.
+- Most screens now have the bottom app bar, so going back to the main menu is less clicks away.
+- ISBN insertion is more straightforward (the hyphens are added automatically )
+
 # Refined Prototype
 
 ## Search history and suggestions
@@ -19,7 +27,7 @@
 ## Ability to order the search results
 <img src="images/06.jpg" width="200">
 
-## ISBN insertion more straightforward (adds '-' automatically)
+## ISBN insertion more straightforward
 <img src="images/09.jpg" width="200">
 
 ## Better aknowledgement for posting a book
