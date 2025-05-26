@@ -26,10 +26,22 @@
         <img src="images/02.jpg" width="200">
     </td>
     <td>
+        <img src="images/21.jpg" width="200">
+    </td>
+    <td>
+        <img src="images/22.jpg" width="200">
+    </td>
+    <td>
+        <img src="images/23.jpg" width="200">
+    </td>
+    <td>
         <img src="images/07.jpg" width="200">
     </td>
     <td>
         <img src="images/08.jpg" width="200">
+    </td>
+    <td>
+        <img src="images/24.jpg" width="200">
     </td>
     </tr>
     <tr>
@@ -50,6 +62,9 @@
     </td>
     <td>
         <img src="images/15.jpg" width="200">
+    </td>
+     <td>
+        <img src="images/25.jpg" width="200">
     </td>
     </tr>
 </table>
