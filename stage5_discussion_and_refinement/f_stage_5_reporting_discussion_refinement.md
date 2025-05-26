@@ -13,7 +13,9 @@
 - Posting a book now has a clearer aknowledgement message.
 - Search results can be ordered by user rating or by the date of posting.
 - Most screens now have the bottom app bar, so going back to the main menu is less clicks away.
-- ISBN insertion is more straightforward (the hyphens are added automatically )
+- ISBN insertion is more straightforward (the hyphens are added automatically to make it simpler to verify).
+- Added a popup for when the user has no internet.
+- In the chat, leaving the 'Livros para trocar' sub-menu can be done by clicking anywhere outside of it.
 
 # Refined Prototype
 <table>
